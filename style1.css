@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+   background-color: gold;
+}
+
+
+
+main{
+  text-align: center;
+  font-size: 20px;
+  color: cornflowerblue;
+  background-color: blueviolet;
+}
+  
+
+  body{
+    background-color: blueviolet;
+  }
+
+  ul{
+    text-align: left;
+    color: white;
+  }
+
+
+  img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    border: 10px solid black;
+  }
+
+
+  footer{
+    background-color: black;
+    text-align: center;
+    color: aqua;
+    font-size: 20px;
+    
+  }
+
+  footer img{
+    width: 100px;
+    height: 100px;
+  }
+
+
+  
+
+  
+
+
+
+

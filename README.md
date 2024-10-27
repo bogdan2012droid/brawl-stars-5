@@ -1,1 +1,1 @@
-# brawl-stars-5
+# brawlstars5
